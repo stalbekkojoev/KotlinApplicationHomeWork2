@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinApplicationHomeWork2</string>
+    <string name="random">RANDOM</string>
+    <string name="submit">SUBMIT</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="enter_url_image">Вставьте ссылку на изображене</string>
+</resources>
